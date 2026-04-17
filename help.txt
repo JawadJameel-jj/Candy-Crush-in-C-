@@ -1,0 +1,81 @@
+==========================
+       CANDY CRUSH
+      INSTRUCTIONS
+==========================
+
+OBJECTIVE:
+-----------
+Match 3 or more candies of the same type to score points.
+Try to get the highest score before time or moves run out!
+
+----------------------------------------
+
+GAME MODES:
+-----------
+1. EASY MODE
+   - Grid Size: 8 x 8
+   - Candy Types: 5
+   - Time Limit: 60 seconds
+
+2. HARD MODE
+   - Grid Size: 10 x 10
+   - Candy Types: 7
+   - Time Limit: 40 seconds
+
+----------------------------------------
+
+CONTROLS:
+----------
+Arrow Keys  -> Move cursor (UP, DOWN, LEFT, RIGHT)
+ENTER       -> Select a candy
+S           -> Swap selected candy with adjacent one
+X           -> Exit the game
+
+NOTE:
+- You can only swap candies that are NEXT TO each other.
+- Invalid swaps will not give any points.
+
+----------------------------------------
+
+SCORING:
+---------
+- Match 3 candies        -> +5 points
+- Special patterns       -> Extra points
+  (L-shapes, diagonals, etc.)
+
+----------------------------------------
+
+GAME RULES:
+------------
+- Candies must be adjacent to swap.
+- Matches can be:
+  * Horizontal
+  * Vertical
+  * Diagonal
+  * L-shape
+
+- After a match:
+  * Candies disappear
+  * New candies fall from above
+  * Board refills automatically
+
+----------------------------------------
+
+GAME OVER CONDITIONS:
+---------------------
+- Time runs out
+- Moves reach zero
+- Player exits the game manually
+
+----------------------------------------
+
+TIPS:
+------
+- Plan your moves carefully!
+- Look for chain reactions.
+- Try forming special patterns for higher scores.
+
+----------------------------------------
+
+GOOD LUCK & HAVE FUN!
+🍬🍬🍬
